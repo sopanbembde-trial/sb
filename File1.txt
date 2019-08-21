@@ -2,5 +2,7 @@
 class myClass{
 	public static void main(){
 		System.out.println("Aham Bramhasmi!...");
+		System.out.println("Aham Bramhasmi!...dodo");
+
 	}
 }
