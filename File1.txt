@@ -1,6 +1,6 @@
 This is File1 to write helloWord..!!
 
-class myclass{
+class myClass{
 	public static void main(){
 		System.out.println("Aham Bramhasmi!...");
 	}
