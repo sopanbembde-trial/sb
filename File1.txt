@@ -2,20 +2,20 @@
 class myClass{
 
 	private void myMethod(){
-		System.out.println("This is myMethod");	
+		
 		System.out.println("Aham Bramhasmi!...");
 
 	}
-	static void myMethod(){
+
+	private static void myMethod(){
 		System.out.println("This is myMethod");
-	}	
+	}
+	
 	public static void main(){
-<<<<<<< HEAD
+
 		
-=======
->>>>>>> bug456
+
 		System.out.println("Aham Bramhasmi!...dodo");
 
 	}
 }
-kdhjpkjdf
