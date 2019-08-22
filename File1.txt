@@ -17,7 +17,7 @@ class MyClass{
 		obj.myMethod();
 		myMethod();
 
-		System.out.println("Aham Bramhasmi!...dodo");
+		
 
 	}
 }
