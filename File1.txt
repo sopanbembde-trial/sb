@@ -3,10 +3,11 @@ class myClass{
 
 	void myMethod(){
 		System.out.println("This is myMethod");	
+		System.out.println("Aham Bramhasmi!...");
 
 	}
 	public static void main(){
-		System.out.println("Aham Bramhasmi!...");
+		
 		System.out.println("Aham Bramhasmi!...dodo");
 
 	}
