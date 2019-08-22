@@ -1,5 +1,5 @@
 
-class myClass{
+class MyClass{
 
 	private void myMethod(){
 		
@@ -13,7 +13,9 @@ class myClass{
 	
 	public static void main(){
 
-		
+		MyClass obj=new MyClass();
+		obj.myMethod();
+		myMethod();
 
 		System.out.println("Aham Bramhasmi!...dodo");
 
